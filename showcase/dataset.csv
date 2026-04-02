@@ -1,0 +1,13 @@
+Direction,State,Water,LandSize,Budget,Crop,SecondaryIncome,ZeroWasteUse
+South-West,North Karnataka,Low,2,5000,Ragi,Goat Farming,Ragi husk → Feed
+South-West,North Karnataka,Medium,1.5,4000,Maize,Poultry,Maize stalk → Compost
+South-West,Karnataka (Coastal),High,2,7000,Coconut,Fish Farming,Coconut shell → Charcoal
+South-East,Andhra Pradesh (Rayalaseema),Low,1,3000,Groundnut,Goat Farming,Shells → Oil/Feed
+South-East,Tamil Nadu (Inland),Low,0.8,2000,Millets,Handicraft,Husk → Crafts
+West,Maharashtra (Marathwada),Low,1.2,3500,Pigeon Pea,Mushroom,Crop residue → Compost
+North,Rajasthan (North),Low,1.5,4000,Groundnut,Poultry,Shells → Oil/Feed
+North,Gujarat (Kutch),Low,1,3000,Bajra,Camel Dairy,Residue → Handicrafts
+North-East/Central,Madhya Pradesh (Bundelkhand),Low,1,2500,Sorghum,Beekeeping,Husk → Crafts
+North-East/Central,Chhattisgarh (Some districts),Medium,1,3000,Pulses,Handicraft,Residue → Compost
+East,Odisha (Western districts),Low,1,3000,Maize,Poultry,Crop residue → Feed
+East,Bihar (Drought-prone),Medium,1.5,3500,Pulses,Mushroom,Residue → Compost
